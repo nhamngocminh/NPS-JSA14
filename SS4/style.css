@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    height: 200vh;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.item{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin: 20px;
+    line-height: 200px;
+    border-radius: 20px;
+}

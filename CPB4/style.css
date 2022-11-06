@@ -1,0 +1,20 @@
+.cde{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    text-align: center;
+}
+.container .img{
+    width: 200px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    justify-content: center;
+}
